@@ -1,3 +1,3 @@
-# Introducing-LCY
+# Introducing-izna
 
-Web project to introduce the K-pop idol, Lee ChaeYeon.
+Web project to introduce the K-pop girl group, izna.
